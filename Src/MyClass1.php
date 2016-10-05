@@ -11,5 +11,6 @@ namespace MyProject_01\Src;
 
 class MyClass1
 {
-
+    public function f1() {
+    }
 }
